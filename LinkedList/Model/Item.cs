@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace LinkedList.Model
 {
-    //Класс обьекта
+    //Класс обьекта 
     class Item<T>
     {
         private T data = default(T);
